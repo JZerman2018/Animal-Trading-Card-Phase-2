@@ -1,0 +1,46 @@
+body {
+  background: #e6ecf7;
+}
+
+#container {
+  border-style: solid;
+  border: 5px solid grey;
+  width: 300px;
+  border-radius: 20px;
+  border-width: 2px;
+  padding: 10px;
+  background: #bbcce8;
+  margin: auto;
+}
+#card {
+  border: 5px solid grey;
+  border-radius: 10px;
+  border-width: 2px;
+  padding: 10px;
+}
+.animal-info {
+ text-align: center;
+  padding: 10px;
+  }
+#facts {
+  list-style-type: none;
+  font-weight: bold;
+  font-size: 16px;
+  text-align: left;
+ }
+.image {
+  max-width: 280px;
+  padding: 10px;
+ }
+#interesting-fact {
+  font-style: italic;
+}
+#summary {
+  text-align-last: center;
+  padding: 10px;
+  }
+.name {
+    padding: 10px;
+  font-size: 32px;
+  text-align: center;
+}
