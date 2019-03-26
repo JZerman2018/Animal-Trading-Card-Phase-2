@@ -38,11 +38,15 @@ body {
   font-style: italic;
 }
 #summary {
-  text-align-last: center;
-  padding: 10px;
+  text-align: justify;
+  padding: 25px;
   }
 .name {
     padding: 10px;
   font-size: 32px;
   text-align: center;
+}
+.scientific-name {
+  text-align: left;
+  
 }
