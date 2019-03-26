@@ -5,7 +5,7 @@ body {
 #container {
   border-style: solid;
   border: 5px solid grey;
-  width: 305px;
+  width: 315px;
   border-radius: 20px;
   border-width: 2px;
   padding: 10px;
@@ -26,7 +26,7 @@ body {
   
 #facts {
   list-style-type: none;
-  font-weight: bold;
+  
   font-size: 14px;
   text-align: left;
  }
@@ -39,7 +39,7 @@ body {
 }
 #summary {
   text-align: justify;
-  padding: 25px;
+  padding: 20px;
   }
 .name {
     padding: 10px;
@@ -48,5 +48,5 @@ body {
 }
 .scientific-name {
   text-align: left;
-  
+  font-size: 12px;
 }
